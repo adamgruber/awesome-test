@@ -1,0 +1,25 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "Test repo for awesome reporter",
+  "main": "index.js",
+  "dependencies": {
+    "mochawesome": "^4.0.0-alpha.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgruber/awesome-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamgruber/awesome-test/issues"
+  },
+  "homepage": "https://github.com/adamgruber/awesome-test#readme"
+}
